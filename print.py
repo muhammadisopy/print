@@ -1,0 +1,2 @@
+meva = "olmas"
+print(meva)
